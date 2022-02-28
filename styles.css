@@ -1,3 +1,6 @@
+html{
+    scroll-behavior: smooth;
+}
 .temp{
     text-align: center;
     font-size: 30px;
